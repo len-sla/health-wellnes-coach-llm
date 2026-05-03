@@ -1,4 +1,4 @@
-# Health&Wellness Coach and  Software Creation in the Age of AI
+# Software Creation in the Age of AI
 
 AI has transformed software development, making code production an abundant and inexpensive resource. The old bottleneck of manual writing has disappeared, shifting real value toward strategic definition and critical validation. Today, the essential competency is no longer generating content, but acting as a systems manager capable of establishing solid foundations and automated evaluation criteria. Attempting to correct a "mass" of poorly structured code is far more costly than performing an accurate initial design.
 
