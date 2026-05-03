@@ -2,7 +2,7 @@
 
 AI has transformed software development, making code production an abundant and inexpensive resource. The old bottleneck of manual writing has disappeared, shifting real value toward strategic definition and critical validation. Today, the essential competency is no longer generating content, but acting as a systems manager capable of establishing solid foundations and automated evaluation criteria. Attempting to correct a "mass" of poorly structured code is far more costly than performing an accurate initial design.
 
-Ultimately, professional success will depend on the ability to orchestrate quality processes rather than simply executing technical tasks. I was inspired by article https://dl.acm.org/doi/10.1145/3706598.3713819. Presented solution is purelly based on LLM content but could easliy extended as a coach with wearable data which will process raw metrics (like steps, heart rate, or sleep cycles). 
+Ultimately, professional success will depend on the ability to orchestrate quality processes rather than simply executing technical tasks. I was inspired by article https://dl.acm.org/doi/10.1145/3706598.3713819. Presented solution is purelly based on LLM content but could easliy extended as a coach with wearable data which will process raw metrics (like steps, heart rate, or sleep cycles) . 
 
 ---
 ### Visual Demonstration
