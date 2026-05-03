@@ -31,7 +31,7 @@ Why is solving this critical for Level 4 and Level 5 systems (Contextual & Strat
 
 ### Sample: Leaderboard Card (Markdown Snippet)
 
-## MUST-HAVE CRITERIA (Required for Certificate)
+### MUST-HAVE CRITERIA (Required for Certificate)
 
 #### HW-001 🔴 MUST-HAVE | Introduction
 - **Criterion**: Does the coach introduce themselves by name and explain their role in supporting health and wellness in the first interaction?
