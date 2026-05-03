@@ -25,7 +25,7 @@ The brutal truth is that LLMs, despite their enormous capabilities, fall into a 
 This creates an engineering gap we must bridge. On one side, we have a precise contract written in Markdown; on the other, we have raw conversation logs in JSON format. These two worlds are incompatible by default. Markdown is human-readable, but to a machine, it is just a string of unstructured characters.
 
 #### Scalability and Strategy
-Why is solving this critical for Level 4 and Level 5 systems (Contextual & Strategic AI)? Because you cannot build scalable agent systems by relying on manual log verification. Manual review works for 10 calls, but for 1,000 calls, we need automation. Without it, every change to the system prompt becomes a game of "Russian roulette"—fixing one bug might unknowingly break three other features (a regression).
+Why is solving this critical for Level 4 and Level 5 systems (Contextual & Strategic AI)? Because you cannot build scalable agent systems by relying on manual log verification. Manual review works for 10 calls, but for 1,000 calls, we need automation. Without it, every change to the system prompt becomes a game of "Russian roulette"—fixing one bug might unknowingly break three other features.
 
 ---
 
