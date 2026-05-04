@@ -54,7 +54,7 @@ Why is solving this critical for Level 4 and Level 5 systems (Contextual & Strat
 - **Negative examples**:
   1. User: "Hi" -> Coach: "Do you exercise daily?" (no context)
 
-So in reality this information above in AI era is kind of opely saying    <b>YES I CAN </b> also... orchestrate the process as pure programming is no longer so important.
+So in reality this information above in AI era is kind of opely saying    <b>YES I CAN </b>  orchestrate the process as pure programming is no longer so important.
 
 ### If you want more info
 lencz.sla@gmail.com
