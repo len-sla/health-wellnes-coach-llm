@@ -17,7 +17,7 @@ To illustrate this shift, **two short videos are attached**:
 ### Concept: The "Health and Wellness  Coach Project" Framework
 
 #### Defying LLM Nature
-The natural tendency of Large Language Models (LLMs) is to be "helpful"—meaning they default to providing answers. My **Health and Wellness Coach** must work against this nature: it must ask questions rather than answer them. Without a clear "terrain map" (domain analysis), the model quickly devolves into a mere chatbot advisor.
+The natural tendency of Large Language Models (LLMs) is to be "helpful"—meaning they default to providing answers. My **Health and Wellness Coach** must work against this nature: it must ask questions rather than answer them. 
 
 #### The Engineering Gap
 The brutal truth is that LLMs, despite their enormous capabilities, fall into a common trap. If we feed a prompt a "wall of text" containing 52 criteria and ask it to "rate the dialogue," the results are inconsistent. The model might forget point 14 or hallucinate point 32.
