@@ -29,7 +29,7 @@ Why is solving this critical for Level 4 and Level 5 systems (Contextual & Strat
 
 ---
 
-### Sample: Leaderboard Card (Markdown Snippet)
+### Sample: Leaderboard Card 
 
 ### MUST-HAVE CRITERIA (Required for Certificate)
 
